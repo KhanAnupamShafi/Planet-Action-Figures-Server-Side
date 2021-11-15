@@ -4,15 +4,6 @@
 
 [![N|Solid](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://reactjs.org/)[![N|Solid](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://reactjs.org/)[![N|Solid](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)[![N|Solid](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://reactjs.org/)
 
-## Live Demonstration
-
-The E-commerce demo can be [viewed online here](https://planet-action-figures.web.app/).
-
-Here are screenshots that show the E-commerce demo application in use.
-
-**Home Page**
-![Home Page](https://i.ibb.co/SVfbkVL/planet-action-figures-web-app-C.png)
-
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://planet-action-figures.web.app/)
 
 Planet Action Figure is a Mongo-cloud-enabled, mobile-ready, offline-storage compatible, firebase authenticated
@@ -34,6 +25,15 @@ React-powered Application.
 - Also there is an admin dashboard where admin can manage all products
 - Admin can delete product / order/ add new product and also update status of an order
 - Only admin can make other admin using the dashboard using secured route
+
+## Live Demonstration
+
+The E-commerce demo can be [viewed online here](https://planet-action-figures.web.app/).
+
+Here are screenshots that show the E-commerce demo application in use.
+
+**Home Page**
+![Home Page](https://i.ibb.co/SVfbkVL/planet-action-figures-web-app-C.png)
 
 ## Tech
 
