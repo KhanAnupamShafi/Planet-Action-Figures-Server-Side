@@ -1,10 +1,19 @@
-# Planet Action Figure
+# Planet Action Figures
 
 #### _A Niche E-commerce website which sells various Action Figure using the MERN stack_
 
 [![N|Solid](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://reactjs.org/)[![N|Solid](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://reactjs.org/)[![N|Solid](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)[![N|Solid](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://reactjs.org/)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+## Live Demonstration
+
+The E-commerce demo can be [viewed online here](https://planet-action-figures.web.app/).
+
+Here are screenshots that show the E-commerce demo application in use.
+
+**Home Page**
+![Home Page](https://i.ibb.co/SVfbkVL/planet-action-figures-web-app-C.png)
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://planet-action-figures.web.app/)
 
 Planet Action Figure is a Mongo-cloud-enabled, mobile-ready, offline-storage compatible, firebase authenticated
 React-powered Application.
